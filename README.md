@@ -1,2 +1,2 @@
-# contagem-regressiva-ano-novo
+# Contagem regressiva ano novo
 Aplicação com Javascript puro: Como desenvolver uma contagem regressiva
